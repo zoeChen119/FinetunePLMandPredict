@@ -1,0 +1,1 @@
+Finetuned model path:/workspace/ZoeGPT/BISAI/[DataFountain]基于通用大模型的知识库问答/results/intent_cf/chinese-roberta-wwm-ext/batch-64-epoch-30-9.0:1.0-3e-05/fine_tuned_model
